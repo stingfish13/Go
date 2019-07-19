@@ -1,0 +1,13 @@
+using System;
+namespace hi
+{
+    class hi
+    {
+        static void Main() 
+        {
+            Console.WriteLine("Hi!");
+            Console.WriteLine("Press any key to exit.");
+            Console.ReadKey();
+        }
+    }
+}
